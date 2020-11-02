@@ -1,0 +1,7 @@
+<svg id="primary-cta" xmlns="http://www.w3.org/2000/svg" width="137" height="62" viewBox="0 0 137 62">
+  <g id="Rectangle_2" data-name="Rectangle 2" fill="#ef1f1f" stroke="#2a2f6f" stroke-width="1">
+    <rect width="137" height="62" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="136" height="61" rx="3.5" fill="none"/>
+  </g>
+  <text id="Proceed" transform="translate(33 38)" fill="#fff" font-size="20" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="500"><tspan x="0" y="0">Proceed</tspan></text>
+</svg>

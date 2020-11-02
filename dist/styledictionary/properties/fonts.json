@@ -1,0 +1,74 @@
+{
+  "font": {
+    "input-field-primary": {
+      "family": {
+        "value": "SF Pro Text"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "input-field-placeholder": {
+      "family": {
+        "value": "SF Pro Text"
+      },
+      "weight": {
+        "value": "Light"
+      }
+    },
+    "cta-text": {
+      "family": {
+        "value": "SF Pro Display"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "input-label-text": {
+      "family": {
+        "value": "SF Pro Display"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "hero-text": {
+      "family": {
+        "value": "SF Pro Display"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "hero-subtext": {
+      "family": {
+        "value": "SF Pro Text"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "input-field-primary": {
+        "value": "20"
+      },
+      "input-field-placeholder": {
+        "value": "20"
+      },
+      "cta-text": {
+        "value": "20"
+      },
+      "input-label-text": {
+        "value": "24"
+      },
+      "hero-text": {
+        "value": "56"
+      },
+      "hero-subtext": {
+        "value": "24"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 02 Nov 2020 11:57:24 GMT
+ */
+
+:root {
+  --input-text-placeholder: #c99393;
+  --cta-primary-bg: #ef1f1f;
+  --cta-primary-border: #2a2f6f;
+  --input-field-border: #ebd3d3;
+  --input-field-bg: #fefefe;
+  --default-bg: #ffffff;
+  --divider-bg: #b9b9e8;
+  --hero-subcolor-text: #454444;
+  --hero-color-text: #000000;
+  --input-field-primary-family: SF Pro Text;
+  --input-field-primary-weight: Medium;
+  --input-field-placeholder-family: SF Pro Text;
+  --input-field-placeholder-weight: Light;
+  --cta-text-family: SF Pro Display;
+  --cta-text-weight: Medium;
+  --input-label-text-family: SF Pro Display;
+  --input-label-text-weight: Medium;
+  --hero-text-family: SF Pro Display;
+  --hero-text-weight: Medium;
+  --hero-subtext-family: SF Pro Text;
+  --hero-subtext-weight: Regular;
+  --input-field-primary-size: 20rem;
+  --input-field-placeholder-size: 20rem;
+  --cta-text-size: 20rem;
+  --input-label-text-size: 24rem;
+  --hero-text-size: 56rem;
+  --hero-subtext-size: 24rem;
+}

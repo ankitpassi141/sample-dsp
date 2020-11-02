@@ -1,0 +1,65 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-10-31T17:24:27.884Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "be6f931e-db93-4b86-83e5-ec874978fc87",
+      "related_entity_ids": [
+        "16af2e98-6ae9-4658-9b43-7922cca1a7b2",
+        "d01b11c9-5b07-4710-b229-a7e360b45e3d",
+        "cc9c3155-9c8f-402b-ab3d-0b644cf96d8f"
+      ],
+      "snippets": {
+        "trigger": "cta-primary",
+        "languages": {
+          "html": "<button class=\"cta-primary\">\n  Proceed\n</button>",
+          "css": ".cta-primary\n{\n  background-color: var(--cta-primary-bg);\n  border-color: var(--cta-primary-border);\n  border-radius: 0.5em;\n  padding: .7em .5em .5em .7em;\n  color: white;\n  font-weight: var(--cta-text-weight);\n  font-size: 1em;\n  font-family: var(--cta-text-family);\n  margin: 1em 2em 1em 2em;\n}"
+        }
+      },
+      "name": "primary-cta",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/70b5a62e-9652-443f-61c4-1e444e74200d",
+        "id": "95aba215-3918-4c57-b27f-0edb12f78b05",
+        "last_sync": "2020-10-31T17:24:27.882Z",
+        "sync": true
+      },
+      "last_updated": "2020-11-02T11:47:07.679Z",
+      "last_updated_by": "",
+      "description": "This is the main CTA for this screen"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "0e605431-741d-4a6c-9f40-a2db54975b5f",
+      "related_entity_ids": [
+        "c338cd83-5cac-4140-a76d-519cdbcc8c77",
+        "125a6596-a73b-4c90-a284-1eac436bdf3c",
+        "b4533f74-c6d1-4f8d-ad3e-d3bccc6ab182",
+        "17fb4ab2-13a3-4c8f-a0b2-76cd5731d88e",
+        "a6c76b2e-a77b-4042-923f-43b495a3103a"
+      ],
+      "snippets": {
+        "trigger": "primary-inputField",
+        "languages": {
+          "html": "<input type=\"email\" placeholder=\"Enter Email Address\" class=\"primary-inputField\"",
+          "css": ".primary-inputField\n{\n  background: white;\n  width: 30%;\n  border-radius: 0.4em;\n  border: 2px solid var(--input-field-border);\n  font-family: var(--input-field-primary-family);\n  font-weight: var(--input-field-primary-weight);\n  font-size: 1em;\n  outline: none;\n  padding: 0.7em .5em .5em .7em;\n  margin: 1em 2em 1em 2em;\n}"
+        }
+      },
+      "name": "primary-text-field",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/70b5a62e-9652-443f-61c4-1e444e74200d",
+        "id": "e7d67f3f-4950-4ea7-a1f0-d6c8715551d7",
+        "last_sync": "2020-10-31T17:24:27.882Z",
+        "sync": true
+      },
+      "last_updated": "2020-10-31T18:16:21.208Z",
+      "last_updated_by": "",
+      "description": "This is a sample Text Input FIeld"
+    }
+  ]
+}
